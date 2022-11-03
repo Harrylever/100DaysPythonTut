@@ -1,0 +1,13 @@
+If you want a non-floating point number after a division
+use double blackslashes "//"
+e.g print(8 // 4)
+
+get a non-floating point number round
+round to nth of places
+round((8 / 3), 2)
+
+result = 4 / 2
+result /= 2
+
+writing f-strings
+print(f"your score is {variable}")

@@ -1,0 +1,63 @@
+Welcome back to Kalide Academy.
+This is our HTML and CSS course.
+Today we'll be talking about the initial steps into starting up our programming env in which you'll be coding in.
+and when we talk about programming/coding environment we mean our the text editor/application used in adherence to the features of our computer system and our special preferences.
+
+So, defining a text editor:
+A text editor is system or program that allows a user to edit text.
+Well, that is the simple definition because it does more than just edit text,
+Text editors have been advanced to debug programs, run and compile scripts, test run and simulate results for even Artificial intelligence programs and many more....
+
+There are a lot of editors in the world already, so what we're looking for is something to meet our taste.
+
+A list of them are:
+1. Notepad
+2. Sublime Text
+3. Atom
+4. Visual Studio Code
+5. Notepad++
+6. Vim
+7. Komondo Edit
+8. Brackets
+
+Thou, some might seem to be more advanced than others, it still all depends on the user and his specific needs.
+
+For our course we'll be making use of Visual Studio Code on a Windows, we will be installing VS code on both windows and linux, but for the rest of the course will be using Visual Studio code on Windows.
+There is a link to the Visual Studio code download page currently on the screen and in case you could not get it, it is also available below our video, that is our description page: "https://code.visualstudio.com/Download".
+
+First We'll be installing for Windows  
+We'll click on the download Button reading Windows and as you can see it supports Windows 7, 8, 10, 11
+if your making use of 32-bit operating system click the button under that reads 32bit
+=====================================
+Wait for it to install.
+If your not aware of your system architecture on a Windows system
+Just follow these steps:
+Left-click on your windows start or the Windows key on your keyboard and type "this pc"
+When the computer icon show up like this, you right-click and then click on properties
+When the windows open up look for the system information that says System type: so you'll either see 64 bit architecture or 32 bit architecture.
+=====================================
+Once it is downloaded, locate your download path and start the installation,
+
+Select "I accept the agreement" on the License Agreement page
+Follow the steps and click on next button
+Try not to make any changes to the already made settings
+Click on Create a Desktop icon, for easier access to Visual Studio code
+Click next and finally Click install
+=====================================
+The installation process is now over, click on the finish and let Visual Studio Code Launch.
+
+The welcome page is up, and some other settings
+Click on Mark done.
+Click on Open folder, navigate to Documents
+Click create New folder and name it HTML and CSS course, done, press Enter
+We'll enter into the folder and click select folder
+Over here at our left side, we'll click on this icon and type in index.html to create our first html file.
+Press Shift and number 1 among your alphanumeric keys
+Click on te Emmet abbreviation
+
+and congratulations we have successfully set up our environment for our HTML and CSS course
+kindly leave your questions, any additions in the comments section
+
+And please don't forget to like and subscribe to our channel
+see you in the next video
+

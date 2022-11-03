@@ -1,0 +1,17 @@
+Procedural Programming
+
+OOP
+Object-Oriented Programming
+* tries to remodel a real world problem
+
+objects are made up of its attributes and methods
+Attributes
+* what is has
+
+Methods
+* what is does
+
+
+OOP -> enables to create CLASS
+from CLASSes as BLUEPRINT we create OBJECT
+e.g: car = CarBlueprint()
